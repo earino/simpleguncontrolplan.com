@@ -37,10 +37,10 @@ stockpile weapons AND ammuniation
 
 # Plan
 
-As of November 2018, ownership of bullets will become a protected right. Law abiding citizens will be allocated 50 bullets of each
+As of November 2018, ownership of bullets will become a protected right. Law abiding citizens will be allocated 10 bullets of each
 caliber for which they own a gun. These bullets will be provided free of charge by the ATF. Citizens will have the right to have at 
-most 150 bullets checked out at any time. Most gun owners will agree that 150 bullets provides enough ammunition for self defense
-and hunting. This greatly limits the destructive potential of a gun owner. A malevolent character with 150 bullets can still do 
+most 50 bullets checked out at any time. Most gun owners will agree that 50 bullets provides enough ammunition for self defense
+and hunting. This greatly limits the destructive potential of a gun owner. A malevolent character with 10 bullets can still do 
 significant damage, but much much less than shooters with massive ammunition stockpiles.
 
 Bullets will be recycled and replenished by the ATF free of charge. Bullets will become every American's right. They will however
